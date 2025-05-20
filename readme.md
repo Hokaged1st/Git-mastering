@@ -1,2 +1,3 @@
 --readme.md
-## Hello git
+## Heyooooo everyone, welcome to team please
+- Adding this to 'please'
